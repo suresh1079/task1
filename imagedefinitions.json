@@ -1,0 +1,6 @@
+[
+  {
+    "name": "djangoApp",
+    "imageUri": "202714190885.dkr.ecr.us-east-1.amazonaws.com/djangorepo:base"
+  }
+]
